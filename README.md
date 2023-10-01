@@ -11,7 +11,7 @@ I _love_ programming, obviously, but I also love everything that is nerdy enough
 ### ./my-goals
 I am trying to always write better code, and I am learning using lower level programming languages.
 
-###### _Felle free to contact me here: [jdessors@gmail.com](mailto:jdessors@gmail.com)_
+###### _Feel free to contact me here: [jdessors@gmail.com](mailto:jdessors@gmail.com)_
 
 </br>
 </br>
