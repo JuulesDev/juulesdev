@@ -9,7 +9,7 @@ I'm currently in my first year of prépa in MP2I (maths, physics & IT), trying t
 I _love_ programming, obviously, but I also love everything that is nerdy enough. Space, everything that flies, playing chess, video games, ...
 
 ### ./my-goals
-I am trying to always write better code, and I am learning using lower level programming languages.
+I am trying to always write better code, I'm doing my best to learn lower level programming languages.
 
 ###### _Feel free to contact me here: [jdessors@gmail.com](mailto:jdessors@gmail.com)_
 
